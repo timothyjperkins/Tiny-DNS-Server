@@ -9,7 +9,7 @@ Requirements:
     python_hosts ("sudo pip3 install python-hosts")
         -by Jon Hadfield (https://github.com/jonhadfield/python-hosts)
     bcolors.py (make sure it's in your scripts directory)
-        -by Neil Marcum
+        -by (https://github.com/sirpookimus)
     run as root ("sudo python3 tdns.py") since it runs on a <1024 port number
 
 Limitations:
